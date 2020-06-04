@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "군밤 팔아요"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "rnsqka"
+name                     : "군밤장수"
 description              : ""
 url                      : "https://baki90.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : ""# the subpath of your site, e.g. "/blog"
